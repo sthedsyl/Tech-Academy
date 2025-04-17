@@ -2,7 +2,8 @@
 Este projeto é um protótipo de uma aplicação web desenvolvido no Figma como parte dos estudos em Programação Web. O layout apresenta as principais páginas e funcionalidades de um sistema web moderno, com foco em usabilidade, navegação intuitiva e design responsivo.
 
 🔗 Acesse o protótipo no Figma:
-https://www.figma.com/proto/DlQXe29HKxnH7ZmqAiw1Vv/Programa%C3%A7%C3%A3o-Web?node-id=174-1106&p=f&t=vB8HxNXP9zBjjYq7-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=14%3A11
+
+https://figma.fun/2WWQORejr1o2Ciyq
 
 📌 Objetivo
 O objetivo deste protótipo é:
